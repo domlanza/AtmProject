@@ -1,0 +1,25 @@
+C:\Users\Dominic Lanza\Source\Repos\ATMProj\ATMProj\bin\Debug\ATMProj.exe.config
+C:\Users\Dominic Lanza\Source\Repos\ATMProj\ATMProj\bin\Debug\ATMProj.exe
+C:\Users\Dominic Lanza\Source\Repos\ATMProj\ATMProj\bin\Debug\ATMProj.pdb
+C:\Users\Dominic Lanza\Source\Repos\ATMProj\ATMProj\obj\Debug\ATMProj.csprojAssemblyReference.cache
+C:\Users\Dominic Lanza\Source\Repos\ATMProj\ATMProj\obj\Debug\ATMProj.Form1.resources
+C:\Users\Dominic Lanza\Source\Repos\ATMProj\ATMProj\obj\Debug\ATMProj.Properties.Resources.resources
+C:\Users\Dominic Lanza\Source\Repos\ATMProj\ATMProj\obj\Debug\ATMProj.csproj.GenerateResource.cache
+C:\Users\Dominic Lanza\Source\Repos\ATMProj\ATMProj\obj\Debug\ATMProj.csproj.CoreCompileInputs.cache
+C:\Users\Dominic Lanza\Source\Repos\ATMProj\ATMProj\obj\Debug\ATMProj.exe
+C:\Users\Dominic Lanza\Source\Repos\ATMProj\ATMProj\obj\Debug\ATMProj.pdb
+C:\Users\Dominic Lanza\Source\Repos\ATMProj\ATMProj\obj\Debug\ATMProj.Form2.resources
+C:\Users\Dominic Lanza\Source\Repos\ATMProj\ATMProj\obj\Debug\ATMProj.Form3.resources
+C:\Users\Dominic Lanza\Source\Repos\ATMProj - Copy\ATMProj\bin\Debug\ATMProj.exe.config
+C:\Users\Dominic Lanza\Source\Repos\ATMProj - Copy\ATMProj\bin\Debug\ATMProj.exe
+C:\Users\Dominic Lanza\Source\Repos\ATMProj - Copy\ATMProj\bin\Debug\ATMProj.pdb
+C:\Users\Dominic Lanza\Source\Repos\ATMProj - Copy\ATMProj\obj\Debug\ATMProj.csprojAssemblyReference.cache
+C:\Users\Dominic Lanza\Source\Repos\ATMProj - Copy\ATMProj\obj\Debug\ATMProj.Form1.resources
+C:\Users\Dominic Lanza\Source\Repos\ATMProj - Copy\ATMProj\obj\Debug\ATMProj.Form2.resources
+C:\Users\Dominic Lanza\Source\Repos\ATMProj - Copy\ATMProj\obj\Debug\ATMProj.Form3.resources
+C:\Users\Dominic Lanza\Source\Repos\ATMProj - Copy\ATMProj\obj\Debug\ATMProj.Properties.Resources.resources
+C:\Users\Dominic Lanza\Source\Repos\ATMProj - Copy\ATMProj\obj\Debug\ATMProj.csproj.GenerateResource.cache
+C:\Users\Dominic Lanza\Source\Repos\ATMProj - Copy\ATMProj\obj\Debug\ATMProj.csproj.CoreCompileInputs.cache
+C:\Users\Dominic Lanza\Source\Repos\ATMProj - Copy\ATMProj\obj\Debug\ATMProj.exe
+C:\Users\Dominic Lanza\Source\Repos\ATMProj - Copy\ATMProj\obj\Debug\ATMProj.pdb
+C:\Users\Dominic Lanza\Source\Repos\ATMProj - Copy\ATMProj\obj\Debug\ATMProj.Form4.resources
